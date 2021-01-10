@@ -1,1 +1,16 @@
+Sono presenti in questa cartella gli STL da stampare per l'anemometro
+
+Si raccomanda di stampare in PETG o ASA con infill almeno al 35%
+Sono disponibili due tipi di base per l'anemometro, una a cuscinetto singolo e una a doppio cuscinetto. Non cambia molto in termini di precisione di rilevamento ma più a livello di stabilità ad alte velocità. 
+L'anemometro a doppio cuscinetto soffre di più attrito e richiede maggior lubrificazione nel tempo, è comunque in fase di sviluppo una versione migliorata dello stesso
+E' presente un incavo per il reed switch sulla base (Che è compatibile con tubi diametro esterno 16mm) e uno per il magnete nella parte del rotore
+
+
+
+The STLs to be printed for the anemometer are present in this folder
+
+It is recommended to print in PETG or ASA with at least 35% infill
+There are two types of base for the anemometer, one with single bearing and one with double bearing. It doesn't change much in terms of detection accuracy but more in terms of stability at high speeds.
+The double bearing anemometer suffers from more friction and requires more lubrication over time, however an improved version of the same is under development
+There is a recess for the reed switch on the base (which is compatible with 16mm outer diameter tubes) and one for the magnet in the rotor part
 
